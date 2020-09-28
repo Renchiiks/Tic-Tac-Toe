@@ -1,0 +1,20 @@
+# Project exclude paths
+/.gradle/
+/Problems/Alphabetical order/out/
+/Problems/Alphabetical order/out/production/classes/
+/Problems/Arithmetic average/out/
+/Problems/Arithmetic average/out/production/classes/
+/Problems/Cinema/out/
+/Problems/Cinema/out/production/classes/
+/Problems/Fill the matrix by numbers/out/
+/Problems/Fill the matrix by numbers/out/production/classes/
+/Problems/Symmetric matrix/out/
+/Problems/Symmetric matrix/out/production/classes/
+/Problems/The maximum product of adjacent elements/out/
+/Problems/The maximum product of adjacent elements/out/production/classes/
+/Problems/Two numbers never occur next to each other/out/
+/Problems/Two numbers never occur next to each other/out/production/classes/
+/Tic-Tac-Toe/task/build/
+/Tic-Tac-Toe/task/out/
+/Tic-Tac-Toe/task/out/production/classes/
+/Tic-Tac-Toe/task/out/test/classes/
